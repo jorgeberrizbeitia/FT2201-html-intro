@@ -42,3 +42,39 @@ body {
   color: blue;
 }
 
+
+
+.brown-container {
+  border-style: solid;
+  border-width: 20px;
+  border-color: brown;
+
+  padding: 30px;
+  /* margin-top: 20px; */
+
+  margin: 20px 30px 10px 30px;
+}
+
+
+body {
+  background-image: url("https://img.wallpapersafari.com/desktop/1440/900/44/9/oAd9tG.jpeg");
+  /* LA IMAGEN PODRIA SER LOCAL */
+}
+
+nav {
+  background-color: burlywood;
+  position: fixed;
+  top: 0;
+}
+
+#main-title {
+  margin-top: 100px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+
