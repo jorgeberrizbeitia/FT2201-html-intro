@@ -1,0 +1,44 @@
+
+/* 
+h2 {
+  color:blue
+}
+
+section {
+  background-color: chartreuse;
+}
+
+li {
+  color: purple;
+} */
+
+
+body {
+  background-color: beige;
+  font-size: 30px;
+}
+
+#toys-section {
+  background-color: lightblue;
+}
+
+#games-section {
+  background-color: lightsalmon;
+}
+
+#movies-section {
+  background-color: lightcyan;
+}
+
+#main-title, .section-title {
+  color: gray;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px brown;
+}
+
+
+#toys-section li {
+  color: blue;
+}
+
